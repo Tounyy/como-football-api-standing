@@ -1,4 +1,7 @@
 import streamlit as st
+import requests
+import json
+import pandas as pd
 
 # API leagues
 url = "https://api-football-v1.p.rapidapi.com/v3/leagues"
