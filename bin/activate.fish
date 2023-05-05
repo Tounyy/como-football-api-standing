@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV '/Users/tonyluu/Documents/Complete Projects/python/python 01 - Learn basic Python /COMO-Project-football/como'
+set -gx VIRTUAL_ENV '/Users/tonyluu/Documents/Complete Projects/python/python 01 - Learn basic Python /COMO-Project-football/venv'
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | head -c 1) -lt 3

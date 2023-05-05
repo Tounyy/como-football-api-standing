@@ -31,7 +31,7 @@ export-env {
     }
 
     let is_windows = ($nu.os-info.name | str downcase) == 'windows'
-    let virtual_env = '/Users/tonyluu/Documents/Complete Projects/python/python 01 - Learn basic Python /COMO-Project-football/como'
+    let virtual_env = '/Users/tonyluu/Documents/Complete Projects/python/python 01 - Learn basic Python /COMO-Project-football/venv'
     let bin = 'bin'
     let path_sep = (char esep)
     let path_name = if $is_windows {

@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/tonyluu/Documents/Complete Projects/python/python 01 - Learn basic Python /COMO-Project-football/como/bin/python" "$0" "$@"
+'''exec' "/Users/tonyluu/Documents/Complete Projects/python/python 01 - Learn basic Python /COMO-Project-football/venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
